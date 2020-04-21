@@ -1,5 +1,5 @@
 h1 {
-         color:red;
+         color: chartreuse;
          font-family: cursive;
 }
 
@@ -15,9 +15,9 @@ li {
 }
 
 div {
-        background-color: aqua;
+        background-color: rgb(229, 255, 0);
 }
 
 p{
-    color: burlywood;
+    color: rgb(29, 168, 211);
 }
